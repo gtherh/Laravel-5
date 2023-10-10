@@ -1,0 +1,13 @@
+{
+    "name": "ClickPay",
+    "alias": "clickpay",
+    "version": "1.0",
+    "gateway": true,
+    "description": "",
+    "keywords": [],
+    "priority": 1,
+    "providers": [],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

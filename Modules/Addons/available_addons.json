@@ -1,0 +1,52 @@
+{
+    "addons": [
+        {
+            "name": "CashOnDelivery",
+            "alias": "cashondelivery",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/CashOnDelivery/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://demo.martvill.techvill.net/modules/coupon.zip",
+            "version": "1.9",
+            "require_version": "2.0",
+            "last_update_date": "27-09-2022",
+            "meta": []
+        },
+      
+       
+        {
+            "name": "Razorpay",
+            "alias": "razorpay",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Razorpay/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "premium",
+            "price": "18$",
+            "url": "https://martvill.techvill.net",
+            "version": "2.1",
+            "require_version": "1.5",
+            "last_update_date": "02-03-2022",
+            "meta": []
+        },
+        {
+            "name": "Recaptcha",
+            "alias": "recaptcha",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "image": [
+                "https://demo.martvill.techvill.net/Modules/Recaptcha/Resources/assets/thumbnail.png"
+            ],
+            "price_type": "free",
+            "price": "Free",
+            "url": "https://martvill.techvill.net",
+            "version": "2.0",
+            "require_version": "1.7",
+            "last_update_date": "02-11-2022",
+            "meta": []
+        }
+      
+    ]
+}

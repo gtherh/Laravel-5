@@ -1,0 +1,252 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Reem+Kufi&family=Tajawal&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap");
+@import "variable";
+
+
+
+body {
+    overflow-x: hidden !important;
+    max-width: 100%;
+    position: relative;
+    -webkit-overflow-scrolling: auto !important;
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: rgba(247, 247, 247, 0.99) !important;
+
+}
+
+
+
+.btn {
+    max-width: 20% !important;
+    color: #79747E;
+
+
+}
+
+.form-control {
+    border: none !important;
+
+}
+
+.nav-link {
+    color: black !important;
+    font-size: 18px;
+
+    font-weight: 500;
+    line-height: 20px;
+    word-wrap: break-word
+}
+
+.nav-link.sale {
+    color: red !important;
+}
+
+.carousel {
+
+
+    width: 100%;
+    height: 400px !important;
+    background: rgba(196, 196, 196, 0.25);
+    border-radius: 24px;
+    /* height: 50% !important; */
+}
+
+.bannres {}
+
+.banner {}
+
+.banner h1 {
+
+    color: #161616;
+
+
+    font-weight: 600;
+    text-transform: lowercase;
+    letter-spacing: 0.10px;
+    word-wrap: break-word;
+
+    margin-left: 10%;
+    margin-top: 13%;
+
+}
+
+.nav-link.active {
+    border-bottom: 1px solid #79747E !important;
+    color: #FF3A44 !important;
+}
+
+.seasons .carousel {
+    height: 273px !important;
+}
+
+.seasons .banner h1 {
+    margin-top: 5% !important;
+}
+
+.brand .carousel {
+    background-color: #FF7F7F;
+    border-radius: 16px;
+    height: 326px !important;
+    padding: 10px;
+}
+
+.brand h2 {
+    font-weight: 700;
+    line-height: 48px;
+    word-wrap: break-word;
+    font-size: 1.9rem !important;
+}
+
+.brand img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.brand .btn {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    background: #161616;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: inline-flex;
+    max-width: 100% !important;
+    text-align: center;
+    color: #F5F5F5;
+    font-size: 15px;
+
+    font-weight: 700;
+
+}
+
+.pay {
+    background-color: #F5F5F5;
+    /* padding: 5%; */
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    gap: 15.27px;
+    margin-left: 0.2%;
+    margin-right: 0.2%;
+    padding: 1%;
+}
+
+.p-title {
+    position: relative;
+    top: 34%;
+    left: 20%;
+
+}
+
+.footer {
+    background-color: #262626;
+
+    padding-left: 1.4rem !important;
+    color: #FCFCFC;
+}
+
+.footer p {
+    font-weight: 400 !important;
+    font-style: normal;
+}
+
+.footer a.debt {
+    font-size: 0.84rem !important;
+}
+
+.footer .right-footer {
+    margin-right: 16.313rem;
+}
+
+.footer .btn-store {
+    min-width: 170px;
+    padding: 12px 18px !important;
+    border-color: #dddddd !important;
+    transition-property: background-color;
+    transition: transform 0.6s;
+}
+
+.footer .btn-label {
+    display: block;
+    text-align: center;
+    line-height: 1;
+}
+
+
+.footer .btn-store:focus,
+.footer .btn-store:hover {
+    color: #FCFCFC !important;
+    background-color: #161616;
+    border-color: #161616 !important;
+    transform: scale(1.05);
+}
+
+.btn-store .btn-label,
+.btn-store .btn-caption {
+    display: block;
+    text-align: left;
+    line-height: 1;
+}
+
+.footer .btn-store .btn-caption {
+    font-size: 14px;
+}
+
+.footer a {
+    color: #FCFCFC !important;
+    font-size: 0.875rem;
+    line-height: 1.8rem;
+    text-decoration: none !important;
+}
+
+.footer-brand>.logo {
+    max-width: 151px !important;
+    height: 31.63px;
+}
+
+.footer p {
+    font-size: 1.25rem;
+    line-height: 1.625rem;
+    margin-bottom: 2rem;
+}
+
+.footer h3 {
+    font-size: 0.938rem;
+    font-weight: 700;
+    line-height: 22.5px;
+}
+
+.footer ul.social a .fab {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+
+    background-color: #FCFCFC;
+    color: #161616;
+    transition: all 0.5s ease;
+
+}
+
+.footer ul li i {
+    transition: all 0.3s linear;
+}
+
+.footer ul.social a .fab:hover {
+    color: #FCFCFC !important;
+    background-color: #161616;
+    font-size: 17px;
+    transform: scale(1.05);
+}
+
+.footer .list-inline-item:not(:last-child) {
+    margin-right: 0.5rem;
+}
